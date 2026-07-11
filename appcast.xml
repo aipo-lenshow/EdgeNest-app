@@ -5,6 +5,25 @@
     <language>en</language>
     <item>
       <title>v1.05.0711</title>
+      <pubDate>Sat, 11 Jul 2026 11:26:46 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.05.0711</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>新增应用内自动更新：应用会自动检查新版本，也可在 设置 → 关于 → 检查更新 手动检查；确认后自动下载安装。<br/>
+        小组件与出口检测的跨端改进：返回前台时自动校准连接状态与网络出口显示。<br/>
+        <br/>
+        New in-app auto-update: the app checks for new versions automatically, or manually via Settings → About → Check for updates; confirm to download and install.<br/>
+        Cross-platform widget and egress-console improvements: connection state and exit readings re-sync when returning to the foreground.</p>
+        <p><em>更新会重启应用，当前连接会短暂断开，更新完成后重新连接即可。</em><br/><em>Updating restarts the app; the current connection drops briefly — reconnect after the update finishes.</em></p>
+      ]]></description>
+      <enclosure url="https://github.com/aipo-lenshow/EdgeNest-app/releases/download/v1.05.0711-b34/EdgeNest-1.05.0711.dmg"
+                 length="130404238"
+                 type="application/octet-stream"
+                 sparkle:edSignature="tsY4qodWr3s10WcOZrpxSUNjgwG/Hx3UZLa6j68RF/ul2CyRtK7rQh5yZaPjYEYI5/Y69RwyAiN1x5WjdzQ0BQ==" />
+    </item>
+    <item>
+      <title>v1.05.0711</title>
       <pubDate>Sat, 11 Jul 2026 11:03:41 +0000</pubDate>
       <sparkle:version>32</sparkle:version>
       <sparkle:shortVersionString>1.05.0711</sparkle:shortVersionString>
